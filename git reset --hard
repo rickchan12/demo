@@ -1,0 +1,25 @@
+[33m692995f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to 692995f
+[33m8d381f5[m HEAD@{1}: reset: moving to 8d381f5
+[33mc9d59a1[m[33m ([m[1;33mtag: v1.0[m[33m)[m HEAD@{2}: reset: moving to c9d59a1
+[33m0c1eed3[m HEAD@{3}: commit: renaming License to txt
+[33m465265c[m HEAD@{4}: commit: updating readme again
+[33m6ee7cc5[m HEAD@{5}: commit: updating license file
+[33mc9d59a1[m[33m ([m[1;33mtag: v1.0[m[33m)[m HEAD@{6}: reset: moving to HEAD
+[33mc9d59a1[m[33m ([m[1;33mtag: v1.0[m[33m)[m HEAD@{7}: commit: updating ignore to exclude merge files
+[33mcc2cdd4[m HEAD@{8}: commit (merge): resolving conflict
+[33mbfbb36e[m HEAD@{9}: commit: causing issuess again
+[33m738058c[m HEAD@{10}: checkout: moving from very-bad to master
+[33mf86c574[m[33m ([m[1;32mvery-bad[m[33m)[m HEAD@{11}: commit: very bad update
+[33m738058c[m HEAD@{12}: checkout: moving from master to very-bad
+[33m738058c[m HEAD@{13}: merge updates: Fast-forward
+[33m8d381f5[m HEAD@{14}: checkout: moving from updates to master
+[33m738058c[m HEAD@{15}: commit: adding updates from branch
+[33m8d381f5[m HEAD@{16}: checkout: moving from master to updates
+[33m8d381f5[m HEAD@{17}: commit: Adding ignore file]
+[33m765a187[m HEAD@{18}: commit: remove myfile.txt
+[33m722b12a[m HEAD@{19}: commit: rename and add
+[33m1d91c03[m HEAD@{20}: commit: deleting demo file
+[33m740a242[m HEAD@{21}: commit: renaming example
+[33m3c07c0d[m HEAD@{22}: commit: adding example file
+[33m692995f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{23}: commit: Updating README
+[33m978987f[m HEAD@{24}: commit (initial): Adding both a README
